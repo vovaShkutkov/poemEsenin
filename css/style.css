@@ -1,0 +1,26 @@
+body{
+    background-image: url(../img/bg.jpg);
+    background-size: 100%;
+}
+
+.imgSerg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -25px;
+}
+
+.poem{
+
+    width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 50px;
+    font-family: 'Caveat', cursive;
+}
+
+h1, h2{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 36px;
+}
